@@ -1,6 +1,9 @@
 # 💫 About Me:
 <h2 align="center">Hi 👋, I'm Aryan</h2>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 I'm a developer driven by a relentless passion for exploring the uncharted realms where imagination and technology collide. Here, you'll get a glimpse into my world of artistic expression, innovative projects, and a commitment to pushing the boundaries of what's possible.
+
 
 
 # 🌐 Socials:
@@ -20,6 +23,7 @@ I'm a developer driven by a relentless passion for exploring the uncharted realm
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryn-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=aryn-09&icon=7&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
